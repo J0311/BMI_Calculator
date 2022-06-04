@@ -30,5 +30,4 @@ public class BMICalculator {
 		System.out.println("Your BMI is: " + df.format(bmi));
 
 	}
-
 }
