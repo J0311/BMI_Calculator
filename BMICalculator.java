@@ -28,6 +28,5 @@ public class BMICalculator {
 		
 		DecimalFormat df = new DecimalFormat("0.0");
 		System.out.println("Your BMI is: " + df.format(bmi));
-
 	}
 }
